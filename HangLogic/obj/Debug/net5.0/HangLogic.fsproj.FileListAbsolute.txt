@@ -1,0 +1,10 @@
+C:\Users\recs\Desktop\HangmanGame\Hangman\HangLogic\bin\Debug\net5.0\HangLogic.deps.json
+C:\Users\recs\Desktop\HangmanGame\Hangman\HangLogic\bin\Debug\net5.0\HangLogic.dll
+C:\Users\recs\Desktop\HangmanGame\Hangman\HangLogic\bin\Debug\net5.0\HangLogic.pdb
+C:\Users\recs\Desktop\HangmanGame\Hangman\HangLogic\bin\Debug\net5.0\HangLogic.xml
+C:\Users\recs\Desktop\HangmanGame\Hangman\HangLogic\obj\Debug\net5.0\HangLogic.fsproj.AssemblyReference.cache
+C:\Users\recs\Desktop\HangmanGame\Hangman\HangLogic\obj\Debug\net5.0\HangLogic.AssemblyInfoInputs.cache
+C:\Users\recs\Desktop\HangmanGame\Hangman\HangLogic\obj\Debug\net5.0\HangLogic.AssemblyInfo.fs
+C:\Users\recs\Desktop\HangmanGame\Hangman\HangLogic\obj\Debug\net5.0\HangLogic.dll
+C:\Users\recs\Desktop\HangmanGame\Hangman\HangLogic\obj\Debug\net5.0\HangLogic.xml
+C:\Users\recs\Desktop\HangmanGame\Hangman\HangLogic\obj\Debug\net5.0\HangLogic.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mgeCJX43YFRr8fvd4CNTn4TPnuSrTogveJLoAqhO27YrNy9lnPwyrWQEq9Q9BTIkoIfc68Kf2AD8Z/i3Eb/XKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\recs\\Desktop\\HangmanGame\\Hangman\\Hangman.Tests\\Hangman.Tests.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\recs\\.nuget\\packages\\expecto\\9.0.2\\expecto.9.0.2.nupkg.sha512",
+    "C:\\Users\\recs\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512",
+    "C:\\Users\\recs\\.nuget\\packages\\mono.cecil\\0.11.2\\mono.cecil.0.11.2.nupkg.sha512"
+  ],
+  "logs": []
+}
