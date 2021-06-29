@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SM5oGjX3dcxX4O9qgjRb6I2Ys3vCT145rwvNCGyCM7UsTxREtbRtjte3U6uSGQleu3KUlhsLa4QjUC51iuygbw==",
+  "dgSpecHash": "1wCna6DfNgCqqvs5uSeTSPMtCWrBVTTRhFg6aCbIH2ddZ+XGaILRFt2/rSQJPRZNXdCvYgjivEzFMhmFq0Y7Dw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\recs\\Desktop\\HangmanGame\\Hangman\\HangLogic\\HangLogic.fsproj",
+  "projectFilePath": "C:\\Users\\recs\\Desktop\\HangmanGame\\HangLogic\\HangLogic.fsproj",
   "expectedPackageFiles": [
     "C:\\Users\\recs\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
   ],

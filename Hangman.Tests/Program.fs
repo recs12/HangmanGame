@@ -1,5 +1,5 @@
 open Expecto
-open Hangman
+open HangLogic.Hangman
 
 
 let hangmanTests =

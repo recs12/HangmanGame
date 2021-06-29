@@ -1,0 +1,6 @@
+C:\Users\recs\Desktop\playground\Hangman Game\Hangman\bin\Debug\net5.0\win-x64\publish\hangman.pdb
+C:\Users\recs\Desktop\playground\Hangman Game\Hangman\bin\Debug\net5.0\win-x64\publish\clrcompression.dll
+C:\Users\recs\Desktop\playground\Hangman Game\Hangman\bin\Debug\net5.0\win-x64\publish\clrjit.dll
+C:\Users\recs\Desktop\playground\Hangman Game\Hangman\bin\Debug\net5.0\win-x64\publish\coreclr.dll
+C:\Users\recs\Desktop\playground\Hangman Game\Hangman\bin\Debug\net5.0\win-x64\publish\mscordaccore.dll
+C:\Users\recs\Desktop\playground\Hangman Game\Hangman\bin\Debug\net5.0\win-x64\publish\hangman.exe

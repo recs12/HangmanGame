@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "j+WlFvRWiq6PtMuHJ2oS+/xQTKXP8rHJBB6hAvIFmrqaIsyvHBOhuPyu1lhlWLBghOmVP61FAu1MxbOIvsnFzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\recs\\Desktop\\HangmanGame\\Hangman.Core\\hangman.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\recs\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512",
+    "C:\\Users\\recs\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.6\\microsoft.netcore.app.runtime.win-x64.5.0.6.nupkg.sha512",
+    "C:\\Users\\recs\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.6\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.6.nupkg.sha512",
+    "C:\\Users\\recs\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.6\\microsoft.aspnetcore.app.runtime.win-x64.5.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
